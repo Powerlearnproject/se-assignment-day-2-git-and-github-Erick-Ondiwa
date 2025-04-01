@@ -144,27 +144,27 @@ Forking	                  Anyone can fork and modify the code	                  
 Licensing & Ownership	    Open-source licensing applies                               Code ownership is retained within the team or organization
 
 Advantages & Disadvantages of Each
-✅ Advantages of Public Repositories
+ Advantages of Public Repositories
 
 Open Collaboration: Encourages contributions from developers worldwide.
 Community Support: Issues and feature requests can be handled by the community.
 Portfolio & Branding: Developers can showcase their work for job opportunities.
 Free for Open-Source Projects: No cost for hosting public repositories.
 
-❌ Disadvantages of Public Repositories
+ Disadvantages of Public Repositories
 
 Security Risks: Code is exposed to anyone, including potential attackers.
 Intellectual Property Risks: Others may misuse or repurpose the code, even if licensed.
 Less Control Over Contributions: PRs from random users may not align with the project’s goals.
 
-✅ Advantages of Private Repositories
+ Advantages of Private Repositories
 
 Confidentiality: Keeps the codebase secure and restricted to authorized users.
 Intellectual Property Protection: Prevents unauthorized use or modification of proprietary software.
 More Controlled Collaboration: Only invited members can contribute, reducing noise and unwanted PRs.
 Ideal for Business & Internal Projects: Best suited for enterprise and proprietary development.
 
-❌ Disadvantages of Private Repositories
+ Disadvantages of Private Repositories
 
 Limited Open-Source Contribution: Developers outside the team cannot access or contribute.
 Requires Paid Plans for Teams: Large-scale team collaboration may require a paid GitHub plan.
